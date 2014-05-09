@@ -154,7 +154,7 @@ class TypeToMethodMap {
     REQUIRE_TYPE_CAST_METHODS.add("IntegerArrayList");
     REQUIRE_TYPE_CAST_METHODS.add("StringArrayList");
     REQUIRE_TYPE_CAST_METHODS.add("CharSequenceArrayList");
-    REQUIRE_TYPE_CAST_METHODS.add("ParcelableArrayList");
+    //REQUIRE_TYPE_CAST_METHODS.add("ParcelableArrayList");
     REQUIRE_TYPE_CAST_METHODS.add("SparseParcelableArray");
 
     REQUIRE_TYPE_CAST_METHODS.add("CharSequence");
